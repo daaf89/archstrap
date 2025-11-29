@@ -9,10 +9,8 @@ official,mesa
 official,intel-media-driver
 official,libva-utils
 official,lvm2
-official,vim
-official,nvim
+official,emacs
 official,git
-official,lazygit
 official,networkmanager
 official,refind
 official,os-prober
@@ -26,7 +24,6 @@ official,tcpdump
 official,wget
 official,stow
 official,dunst
-official,isync
 official,pass
 official,gnome-keyring
 official,seahorse
@@ -61,7 +58,7 @@ official,ffmpeg
 official,ntfs-3g
 official,exfat-utils
 official,hunspell
-official,hunspell-en_us
+official,hunspell-en_gb-ise
 official,speedcrunch
 official,unrar
 official,qrencode
@@ -258,11 +255,7 @@ official,powerline-fonts
 official,ttf-cascadia-code-nerd
 aur,borna-fonts
 aur,cmusfm
-aur,brave-bin
-aur,mullvad-browser-bin
-aur,nvm
-aur,google-chrome
-aur,sublime-merge
+aur,firefox
 aur,bash-complete-alias
 aur,libinput-gestures
 aur,yt-dlp-drop-in
@@ -279,9 +272,6 @@ aur,tmux-plugin-manager
 aur,ueberzugpp
 aur,dotool
 aur,graftcp
-aur,claude-code
-aur,gemini-cli
-aur,mullvad-vpn-bin
 aur,ufw-docker
 aur,refind-btrfs-snapshots-bin
 aur,julia-bin
