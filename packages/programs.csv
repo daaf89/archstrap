@@ -256,6 +256,7 @@ official,ttf-cascadia-code-nerd
 aur,borna-fonts
 aur,cmusfm
 aur,firefox
+aur,nvm
 aur,bash-complete-alias
 aur,libinput-gestures
 aur,yt-dlp-drop-in
@@ -278,5 +279,4 @@ aur,julia-bin
 aur,digikam
 aur,okular
 aur,breeze-icons
-aur,proton-mail
 aur,borg
