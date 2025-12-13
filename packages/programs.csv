@@ -9,7 +9,7 @@ official,mesa
 official,intel-media-driver
 official,libva-utils
 official,lvm2
-official,emacs
+official,emacs-wayland
 official,git
 official,networkmanager
 official,refind
@@ -264,7 +264,6 @@ aur,aurutils
 aur,visual-studio-code-bin
 aur,pingtunnel-git
 aur,tp-battery-mode
-aur,goldendict-ng
 aur,wofi-emoji
 aur,wlogout
 aur,simple-sddm-theme-git
@@ -280,3 +279,5 @@ aur,digikam
 aur,okular
 aur,breeze-icons
 aur,borg
+aur,texlive
+aur,sbcl
