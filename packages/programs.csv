@@ -188,7 +188,6 @@ official,wofi
 official,qt5-wayland
 official,qt6-wayland
 official,qt6-multimedia-ffmpeg
-official,xwayland-sattelite
 official,qt5ct
 official,qt6ct
 official,qt5-quickcontrols2
@@ -258,6 +257,7 @@ official,ttf-inconsolata-nerd
 official,ttf-jetbrains-mono-nerd
 official,powerline-fonts
 official,ttf-cascadia-code-nerd
+aur,xwayland-sattelite
 aur,dms-shell-bin
 aur,matugen
 aur,cava
