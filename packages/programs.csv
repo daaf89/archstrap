@@ -226,6 +226,7 @@ official,traceroute
 official,clamav
 official,rofi
 official,rofi-rbw
+official,fuzzel
 official,bandwhich
 official,eza
 official,openbsd-netcat
