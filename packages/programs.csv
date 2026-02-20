@@ -23,7 +23,6 @@ official,nano
 official,tcpdump
 official,wget
 official,stow
-official,dunst
 official,pass
 official,gnome-keyring
 official,seahorse
